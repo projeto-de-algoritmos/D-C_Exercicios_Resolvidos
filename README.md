@@ -17,7 +17,11 @@ Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger tod
 - Par de pontos mais próximos
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![exercicio 1](assets/exercicio1.png)
+![exercicio 2](assets/exercicio2.png)
+![exercicio 3](assets/exercicio3.png)
+
+
 
 ## Instalação 
 **Linguagem**: Python<br>
