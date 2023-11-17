@@ -10,11 +10,7 @@
 
 
 ## Sobre 
-Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger todo o conteúdo ensinado nas aulas de dividir e conquistar. Os conteúdos abordados foram:
-
-- Mediana das medianas
-- Contagem de inversões
-- Par de pontos mais próximos
+Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger todo o conteúdo ensinado nas aulas de dividir e conquistar.
 
 ## Screenshots
 ![exercicio 1](assets/exercicio1.png)
