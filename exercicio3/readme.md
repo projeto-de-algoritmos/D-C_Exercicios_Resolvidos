@@ -1,8 +1,8 @@
-# [K Closest Points to Origin](https://leetcode.com/problems/reverse-bits/description/)
+# [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 
 Dado um conjunto de pontos onde points[i] = [xi, yi] representa um ponto no plano X-Y e um número inteiro k, retorne os k pontos mais próximos à origem (0, 0).
 
-A distância entre dois pontos no plano X-Y é a distância euclidiana (ou seja, √(x1 - x2)2 + (y1 - y2)2).
+A distância entre dois pontos no plano X-Y é a distância euclidiana (ou seja, √(x1 - x2)^2 + (y1 - y2)^2).
 
 Você pode retornar a resposta em qualquer ordem. A resposta é garantida única (exceto pela ordem em que está).
 
